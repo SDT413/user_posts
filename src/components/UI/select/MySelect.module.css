@@ -1,0 +1,12 @@
+.MySelect{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-right: 15px;
+    width: 100%;
+    height: 40px;
+}
+
+.MySelect:nth-child(1){
+    margin-right: 10px;
+}
